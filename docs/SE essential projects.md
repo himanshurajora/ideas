@@ -31,7 +31,7 @@ A search engine is a software system that is designed to search for information 
 
 ## Database
 
-A database is a collection of data that is organized and stored in a structured format. It is used to store and retrieve data for various applications. Developing a database is a challenging task that requires a deep understanding of data modeling, database design, and software engineering.
+A database is a collection of data that is organized and stored in a structured format. It is used to store and retrieve data for various applications. Developing a database is a challenging task that requires a deep understanding of data serialization, Operating System, IO, Data Structures and Algorithms.
 
 ## An application that uses a plugin system
 
